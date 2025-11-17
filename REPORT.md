@@ -3,10 +3,7 @@
 ## Project Overview
 This report documents the complete implementation of CI/CD pipeline for the Iris Classifier ML application, covering testing, linting, containerization, and automated workflows.
 
-**Repository**: [Your GitHub Repository Link]  
-**Source Repository**: [Original Repository Link]  
-**Date**: November 17, 2025
-
+Jihad Mimouni
 ---
 
 ## Task 1: Prepare the ML Project
