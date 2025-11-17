@@ -591,13 +591,13 @@ docker save iris-classifier:local -o iris-classifier-image.tar
 - Require code review approval
 - Prevent direct pushes to main
 
-![GitHub Actions Workflow](./screenshots/task5_github_actions.png)
+![GitHub Actions Workflow](./screenshots/Pasted%20image%20(16).png)
 
-![CI Pipeline Running](./screenshots/task5_ci_running.png)
+![CI Pipeline Running](./screenshots/Pasted%20image%20(14).png)
 
-![CI Pipeline Success](./screenshots/task5_ci_success.png)
+![CI Pipeline Success](./screenshots/Pasted%20image%20(17).png)
 
-![Artifacts Downloaded](./screenshots/task5_artifacts.png)
+![Artifacts Downloaded](./screenshots/Pasted%20image%20(18).png)
 
 ### Additional CI Improvements
 
