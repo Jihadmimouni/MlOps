@@ -3,7 +3,9 @@
 ## Project Overview
 This report documents the complete implementation of CI/CD pipeline for the Iris Classifier ML application, covering testing, linting, containerization, and automated workflows.
 
-Jihad Mimouni
+By: Jihad Mimouni
+
+
 ---
 
 ## Task 1: Prepare the ML Project
